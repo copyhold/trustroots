@@ -27,3 +27,6 @@ system_apt_packages:
   - graphicsmagick
   - make
   - build-essential
+  - influxdb
+  - monit
+  - munin
